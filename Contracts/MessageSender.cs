@@ -31,7 +31,6 @@ namespace Contracts
 		public void SendMessage<T>(T message) where T : class
 		{		
 			_busControl.Publish(message);
-			_busControl
 		}
 	}
 }

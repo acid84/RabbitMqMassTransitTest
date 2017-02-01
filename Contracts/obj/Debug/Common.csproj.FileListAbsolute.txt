@@ -17,3 +17,23 @@ c:\users\acid8\documents\visual studio 2015\Projects\MtPubSubExample\Contracts\b
 c:\users\acid8\documents\visual studio 2015\Projects\MtPubSubExample\Contracts\bin\Debug\RabbitMQ.Client.xml
 c:\users\acid8\documents\visual studio 2015\Projects\MtPubSubExample\Contracts\obj\Debug\Contracts.dll
 c:\users\acid8\documents\visual studio 2015\Projects\MtPubSubExample\Contracts\obj\Debug\Contracts.pdb
+C:\github\RabbitMqMassTransitTest\Contracts\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\github\RabbitMqMassTransitTest\Contracts\obj\Debug\Contracts.dll
+C:\github\RabbitMqMassTransitTest\Contracts\obj\Debug\Contracts.pdb
+C:\github\RabbitMqMassTransitTest\Contracts\bin\Debug\Contracts.dll
+C:\github\RabbitMqMassTransitTest\Contracts\bin\Debug\Contracts.pdb
+C:\github\RabbitMqMassTransitTest\Contracts\bin\Debug\GreenPipes.dll
+C:\github\RabbitMqMassTransitTest\Contracts\bin\Debug\log4net.dll
+C:\github\RabbitMqMassTransitTest\Contracts\bin\Debug\MassTransit.dll
+C:\github\RabbitMqMassTransitTest\Contracts\bin\Debug\MassTransit.Log4NetIntegration.dll
+C:\github\RabbitMqMassTransitTest\Contracts\bin\Debug\MassTransit.RabbitMqTransport.dll
+C:\github\RabbitMqMassTransitTest\Contracts\bin\Debug\NewId.dll
+C:\github\RabbitMqMassTransitTest\Contracts\bin\Debug\Newtonsoft.Json.dll
+C:\github\RabbitMqMassTransitTest\Contracts\bin\Debug\RabbitMQ.Client.dll
+C:\github\RabbitMqMassTransitTest\Contracts\bin\Debug\GreenPipes.xml
+C:\github\RabbitMqMassTransitTest\Contracts\bin\Debug\log4net.xml
+C:\github\RabbitMqMassTransitTest\Contracts\bin\Debug\MassTransit.xml
+C:\github\RabbitMqMassTransitTest\Contracts\bin\Debug\MassTransit.Log4NetIntegration.xml
+C:\github\RabbitMqMassTransitTest\Contracts\bin\Debug\MassTransit.RabbitMqTransport.xml
+C:\github\RabbitMqMassTransitTest\Contracts\bin\Debug\Newtonsoft.Json.xml
+C:\github\RabbitMqMassTransitTest\Contracts\bin\Debug\RabbitMQ.Client.xml

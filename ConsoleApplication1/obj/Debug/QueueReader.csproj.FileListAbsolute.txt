@@ -17,3 +17,22 @@ c:\users\acid8\documents\visual studio 2015\Projects\MtPubSubExample\ConsoleAppl
 c:\users\acid8\documents\visual studio 2015\Projects\MtPubSubExample\ConsoleApplication1\obj\Debug\QueueReader.csprojResolveAssemblyReference.cache
 c:\users\acid8\documents\visual studio 2015\Projects\MtPubSubExample\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 c:\users\acid8\documents\visual studio 2015\Projects\MtPubSubExample\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\obj\Debug\QueueReader.csprojResolveAssemblyReference.cache
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\bin\Debug\Contracts.dll
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\bin\Debug\GreenPipes.dll
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\bin\Debug\MassTransit.dll
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\bin\Debug\MassTransit.RabbitMqTransport.dll
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\bin\Debug\NewId.dll
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\bin\Debug\RabbitMQ.Client.dll
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\bin\Debug\Contracts.pdb
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\bin\Debug\GreenPipes.xml
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\bin\Debug\MassTransit.xml
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\bin\Debug\MassTransit.RabbitMqTransport.xml
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\github\RabbitMqMassTransitTest\ConsoleApplication1\bin\Debug\RabbitMQ.Client.xml
